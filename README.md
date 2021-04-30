@@ -14,6 +14,15 @@
 - transition end event / animation end event
 
 
+### 2. CSS JavaScript Clock 
+#### Things I learned:
+- current time:
+    - `getHours()`
+    - `getMinutes()`
+    - `getSeconds()`
+- degree: `((seconds / 60) * 360) + 90`;
+- `transition-timing-function: ease-in-out`
+
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 

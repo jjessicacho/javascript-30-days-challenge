@@ -5,6 +5,7 @@
 
 ### 1. JavaScript Drum Kit
 ![drum-kit](https://user-images.githubusercontent.com/40417828/116617206-6e3d5f80-a8f2-11eb-97f2-d12e47530064.jpg)
+[JS Drum Kit](https://jjessicacho.github.io/javascript-30-days-challenge/drum-kit/)
 
 #### Things I learned:
 - key events

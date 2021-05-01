@@ -15,6 +15,8 @@
 
 
 ### 2. CSS JavaScript Clock 
+![clock](https://user-images.githubusercontent.com/40417828/116766547-e59ced00-a9df-11eb-8c7f-6a6e389c195a.jpg)
+[CSS JS Clock](https://jjessicacho.github.io/javascript-30-days-challenge/css-js-clock/)
 #### Things I learned:
 - current time:
     - `getHours()`
@@ -22,6 +24,7 @@
     - `getSeconds()`
 - degree: `((seconds / 60) * 360) + 90`;
 - `transition-timing-function: ease-in-out`
+- style height property 
 
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
@@ -31,3 +34,5 @@ Photo by <a href="https://unsplash.com/@gopack?utm_source=unsplash&utm_medium=re
 [keycode](http://keycode.info/)
 
 [Using data attributes | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+
+[Style Height Property | w3school](https://www.w3schools.com/jsref/prop_style_height.asp)

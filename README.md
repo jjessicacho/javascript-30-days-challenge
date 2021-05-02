@@ -26,6 +26,19 @@
 - `transition-timing-function: ease-in-out`
 - style height property 
 
+### 3. CSS Variable
+![css-variables](https://user-images.githubusercontent.com/40417828/116798518-1004ae00-aaa5-11eb-8829-0fdbbacd1686.jpg)
+[CSS Variables](https://jjessicacho.github.io/javascript-30-days-challenge/css-variables/)
+
+#### Things I learned:
+- mouse event
+- forEach
+- `style.setProperty(propertyName, value, priority);`
+    - `propertyName` is a `DOMString` representing the CSS property name (hyphen case) to be modified.
+    - `value` (Optional) is a `DOMString` containing the new property value. If not specified, treated as the empty string.
+    *Note*: value must not contain "!important" -- that should be set using the priority parameter.
+
+
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 
@@ -36,3 +49,5 @@ Photo by <a href="https://unsplash.com/@gopack?utm_source=unsplash&utm_medium=re
 [Using data attributes | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
 
 [Style Height Property | w3school](https://www.w3schools.com/jsref/prop_style_height.asp)
+
+[CSS Style Declaration | MDN](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty)

@@ -97,3 +97,5 @@ Photo by <a href="https://unsplash.com/@gopack?utm_source=unsplash&utm_medium=re
 [Array.prototype.sort() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
 [Array.prototype.reduce() MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+
+[10 Classical Music Composers to Know](https://www.britannica.com/list/10-classical-music-composers-to-know)

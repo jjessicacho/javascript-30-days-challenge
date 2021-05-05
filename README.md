@@ -76,6 +76,17 @@ console.log(array1.reduce(reducer, 5));
 ```
 - arrow function
 
+### 4. Flex Panel Gallery
+![flex-panel-gallery](https://user-images.githubusercontent.com/40417828/117208316-d7691b00-ada9-11eb-90f6-abfa8b3143b7.jpg)
+[Flex Panel Gallery](https://jjessicacho.github.io/javascript-30-days-challenge/flex-panel-gallery/)
+
+#### Things I learned:
+- Advanced css flexbox
+- Transition
+- toggleOpen
+- toggleActive
+- transition"end" not transtioned
+
 
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)

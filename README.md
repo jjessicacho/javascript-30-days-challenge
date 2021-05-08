@@ -68,6 +68,28 @@
 - Fetch API 
 - Promises 
 
+
+### 5. Array Cardio Day 2
+[Array Cardio Day 2](https://jjessicacho.github.io/javascript-30-days-challenge/array-cardio-day-02/)
+
+#### Things I learned:
+- `Array.prototype.some()`
+- `Array.prototype.every()`
+- `Array.prototype.find()`
+- `Array.prototype.findIndex()`
+- How to delete the comment without using `splice` (very popular in Redux): create a new array of the updated comments
+```js
+  const index = comments.findIndex(comment => comment.id === 823423);
+  
+  //comments.splice(index, 1);
+
+  const newComments = [
+    ...comments.slice(0, index),
+    ...comments.slice(index + 1)
+  ];
+```
+
+
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 

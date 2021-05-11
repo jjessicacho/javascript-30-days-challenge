@@ -91,7 +91,7 @@
 
 ### 8. HTML5 Canvas
 ![canvas](https://user-images.githubusercontent.com/40417828/117739042-48e20880-b1b2-11eb-9c2f-b72ac4def9c1.jpg)
-[Array Cardio Day 2](https://jjessicacho.github.io/javascript-30-days-challenge/array-cardio-day-02/)
+[HTML5 Canvas](https://jjessicacho.github.io/javascript-30-days-challenge/canvas/)
 
 #### Things I learned:
 - Change width and height to 100% screen in JavaScript

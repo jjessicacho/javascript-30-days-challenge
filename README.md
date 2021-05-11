@@ -48,7 +48,7 @@
 - array reduce
 - arrow function
 
-### 4. Flex Panel Gallery
+### 5. Flex Panel Gallery
 ![flex-panel-gallery](https://user-images.githubusercontent.com/40417828/117208316-d7691b00-ada9-11eb-90f6-abfa8b3143b7.jpg)
 [Flex Panel Gallery](https://jjessicacho.github.io/javascript-30-days-challenge/flex-panel-gallery/)
 
@@ -60,7 +60,7 @@
 - transition"end" not transtioned
 
 
-### 5. Type Ahead
+### 6. Type Ahead
 ![type-ahead](https://user-images.githubusercontent.com/40417828/117385483-14acd600-ae9a-11eb-8787-837792e6bea5.jpg)
 [Type Ahead](https://jjessicacho.github.io/javascript-30-days-challenge/type-ahead/)
 
@@ -69,7 +69,7 @@
 - Promises 
 
 
-### 5. Array Cardio Day 2
+### 7. Array Cardio Day 2
 [Array Cardio Day 2](https://jjessicacho.github.io/javascript-30-days-challenge/array-cardio-day-02/)
 
 #### Things I learned:
@@ -89,7 +89,22 @@
   ];
 ```
 
+### 8. HTML5 Canvas
+![canvas](https://user-images.githubusercontent.com/40417828/117739042-48e20880-b1b2-11eb-9c2f-b72ac4def9c1.jpg)
+[Array Cardio Day 2](https://jjessicacho.github.io/javascript-30-days-challenge/array-cardio-day-02/)
 
+#### Things I learned:
+- Change width and height to 100% screen in JavaScript
+- lineJoin, lineCap: "bevel" || "round" || "miter"
+- Blend mode
+- Stroke Style: `hsl(${hue}, 100%, 50%)`
+- How to make it more simple: 
+```js
+[lastX, lastY] = [e.offsetX, e.offsetY];
+  // this is same as following:
+  // lastX = e.offsetX;
+  // lastY = e.offsetY;
+```
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 
@@ -114,3 +129,5 @@ Photo by <a href="https://unsplash.com/@gopack?utm_source=unsplash&utm_medium=re
 [10 Classical Music Composers to Know](https://www.britannica.com/list/10-classical-music-composers-to-know)
 
 [Learn Fetch API In 6 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+
+[CanvasRenderingContext2D.lineJoin](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin)

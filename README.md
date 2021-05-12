@@ -105,6 +105,26 @@
   // lastX = e.offsetX;
   // lastY = e.offsetY;
 ```
+
+
+### 9. Dev Tools Domination
+[Dev Tools Domination](https://jjessicacho.github.io/javascript-30-days-challenge/dev-tools-dominations/)
+
+#### Things I learned:
+console
+- log
+- interpolated ('')
+- styled (css)
+- warning: warn
+- error 
+- testing
+- clear
+- viewing DOM Elements: dir
+- grouping together: group
+- counting: count
+- timing (how long it takes): time, timeEnd, fetch
+
+
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 

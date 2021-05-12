@@ -108,7 +108,7 @@
 
 
 ### 9. Dev Tools Domination
-[Dev Tools Domination](https://jjessicacho.github.io/javascript-30-days-challenge/dev-tools-dominations/)
+[Dev Tools Domination](https://jjessicacho.github.io/javascript-30-days-challenge/dev-tools-domination/)
 
 #### Things I learned:
 console

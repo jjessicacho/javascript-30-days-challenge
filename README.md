@@ -125,6 +125,21 @@ console
 - timing (how long it takes): time, timeEnd, fetch
 
 
+### 10. Hold Shift to Check Checkbox
+![checkbox](https://user-images.githubusercontent.com/40417828/118047152-36410e00-b32f-11eb-9945-db2e6d641121.jpg)
+[Hold Shift to Check Checkbox](https://jjessicacho.github.io/javascript-30-days-challenge/checkbox/)
+
+#### Things I learned:
+- choose multiple checkbox
+  - loop 
+  - forEach
+- flag variable
+
+
+
+
+
+
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)
 
@@ -151,3 +166,5 @@ Photo by <a href="https://unsplash.com/@gopack?utm_source=unsplash&utm_medium=re
 [Learn Fetch API In 6 Minutes by Web Dev Simplified](https://www.youtube.com/watch?v=cuEtnrL9-H0)
 
 [CanvasRenderingContext2D.lineJoin](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin)
+
+[How to select only one DIV from multiple divs using javascript](https://stackoverflow.com/questions/31531461/how-to-select-only-one-div-from-multiple-divs-using-javascript/31533039)

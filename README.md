@@ -136,6 +136,20 @@ console
 - flag variable
 
 
+### 11. Custom Video Player
+![Screenshot 2021-05-13 165113](https://user-images.githubusercontent.com/40417828/118201127-a4f39980-b40b-11eb-8981-9f139226025c.jpg)
+[Custom Video Player](https://jjessicacho.github.io/javascript-30-days-challenge/custom-video-player/)
+
+#### Things I learned:
+- play video
+- pause video
+- drag video
+- update bar
+- volume up and down
+- skip before (-10 seconds) and after (25 seconds) 
+
+
+
 
 
 

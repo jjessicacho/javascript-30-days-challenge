@@ -160,6 +160,15 @@ console
 
 
 
+### 13. Slide In on Scroll
+![slide](https://user-images.githubusercontent.com/40417828/118336838-54da0d00-b4c7-11eb-9926-29e79cfd57d4.jpg)
+[Slide In on Scroll](https://jjessicacho.github.io/javascript-30-days-challenge/slide-in-on-scroll/)
+
+#### Things I learned:
+- console.count()
+- Calculate half way through the image and bottom of the image
+  - window.scrollY
+  - offsetTop
 
 
 

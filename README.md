@@ -137,16 +137,26 @@ console
 
 
 ### 11. Custom Video Player
-![Screenshot 2021-05-13 165113](https://user-images.githubusercontent.com/40417828/118201127-a4f39980-b40b-11eb-8981-9f139226025c.jpg)
+![custom-video-player](https://user-images.githubusercontent.com/40417828/118204882-13d4f080-b414-11eb-946d-fa498c6a4245.jpg)
 [Custom Video Player](https://jjessicacho.github.io/javascript-30-days-challenge/custom-video-player/)
 
 #### Things I learned:
 - play video
 - pause video
-- drag video
+- drag video bar
 - update bar
 - volume up and down
 - skip before (-10 seconds) and after (25 seconds) 
+
+
+### 12. Key Sequence Detection (KONAMI CODE)
+![key-sequence-detection](https://user-images.githubusercontent.com/40417828/118204884-15061d80-b414-11eb-8455-7fd750a500e7.jpg)
+[Key Sequence Detection](https://jjessicacho.github.io/javascript-30-days-challenge/key-sequence-detection/)
+
+#### Things I learned:
+- key sequencing detection
+- store them in an array
+- check every single time that they key up if it matches what you're looking for
 
 
 

@@ -182,6 +182,28 @@ console
 
 
 
+### 15. LocalStorage
+[LocalStorage](https://jjessicacho.github.io/javascript-30-days-challenge/local-storage/)
+
+#### Things I learned:
+- preserve log
+- save items to local storage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

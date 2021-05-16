@@ -172,6 +172,18 @@ console
 
 
 
+### 14. JavaScript References VS Copy
+[JavaScript References VS Copy](https://jjessicacho.github.io/javascript-30-days-challenge/js-references-vs-copying/)
+
+#### Things I learned:
+- array concat
+- object assign
+- JSON parse (not really recommended)
+
+
+
+
+
 
 ## Source
 [JavaScript 30 by Wes Bros](https://javascript30.com/)

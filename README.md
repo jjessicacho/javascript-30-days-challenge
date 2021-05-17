@@ -183,6 +183,7 @@ console
 
 
 ### 15. LocalStorage
+![localStorage](https://user-images.githubusercontent.com/40417828/118418248-8f30df00-b66c-11eb-9b76-2c1b42505724.jpg)
 [LocalStorage](https://jjessicacho.github.io/javascript-30-days-challenge/localStorage/)
 
 #### Things I learned:

@@ -183,7 +183,7 @@ console
 
 
 ### 15. LocalStorage
-[LocalStorage](https://jjessicacho.github.io/javascript-30-days-challenge/local-storage/)
+[LocalStorage](https://jjessicacho.github.io/javascript-30-days-challenge/localStorage/)
 
 #### Things I learned:
 - preserve log

@@ -33,25 +33,31 @@
   function addItem(e) {
     // console.log('Hello');
 
-    e.preventDefault();
-    const text = (this.querySelector('[name=item]')).value;
+    e.preventDefault(); // to stop the page reloading because we are going to be doing an all client side 
+    const text = (this.querySelector('[name=item]')).value; // this: actual form (): input ().value: input value
+    // take the text box and put it into an object 
     const item = {
-      text, // same as text: text
-      done: false
+      text, // same as "text: text"
+      done: false // default: not checked
     }
     // console.log(item);
 
     items.push(item);
     populateList(items, itemsList);
+    // stringify => convert your objects and arrays into a JSON string equivalent 
     localStorage.setItem('items', JSON.stringify(items));
     this.reset(); // clear + refresh
   }
 
+  //plates == items 
   function populateList(plates = [], platesList) {
     platesList.innerHTML = plates.map((plate, i) => {
       return `
         <li>
-          <input type="checkbox" data-index=${i} id="item${i}" ${plate.done ? 'checked' : ''}/>
+          <input type="checkbox" data-index=${i} id="item${i}" ${plate.done ? 'checked' : ''}/> 
+          /* just checked => default is all items are checked 
+                  checked="false" => still checked
+                  checked="emoji poop" => does not change to emoji poop */
           <label for="item${i}">${plate.text}</label>
         </li>
       `;
@@ -60,17 +66,17 @@
 
   function toggleDone(e) {
     if(!e.target.matches('input')) return; // skip this unless it's an input 
-    const el = e.target;
+    const el = e.target; // el: element
     const index = el.dataset.index;
-    items[index].done = !items[index].done;
+    items[index].done = !items[index].done; // if it is true, it is going to be opposite 
     localStorage.setItem('items', JSON.stringify(items));
-    populateList(items, itemsList);
+    populateList(items, itemsList); // visually update 
     // console.log(el.dataset.index);
     // console.log(e.target);
   }
 
-  addItems.addEventListener('submit', addItem);
-  itemsList.addEventListener('click', toggleDone);
+  addItems.addEventListener('submit', addItem); //not click on btn, make sure to hover over all events as submitting 
+  itemsList.addEventListener('click', toggleDone); // instead of put event listener to the checkbox directly, choose the children (anything within the li's)
 
   populateList(items, itemsList);
 

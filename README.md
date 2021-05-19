@@ -13,7 +13,6 @@
 - audio
 - transition end event / animation end event
 
-
 ### 2. CSS JavaScript Clock 
 ![clock](https://user-images.githubusercontent.com/40417828/116766547-e59ced00-a9df-11eb-8c7f-6a6e389c195a.jpg)
 [CSS JS Clock](https://jjessicacho.github.io/javascript-30-days-challenge/css-js-clock/)
@@ -59,7 +58,6 @@
 - toggleActive
 - transition"end" not transtioned
 
-
 ### 6. Type Ahead
 ![type-ahead](https://user-images.githubusercontent.com/40417828/117385483-14acd600-ae9a-11eb-8787-837792e6bea5.jpg)
 [Type Ahead](https://jjessicacho.github.io/javascript-30-days-challenge/type-ahead/)
@@ -67,7 +65,6 @@
 #### Things I learned:
 - Fetch API 
 - Promises 
-
 
 ### 7. Array Cardio Day 2
 [Array Cardio Day 2](https://jjessicacho.github.io/javascript-30-days-challenge/array-cardio-day-02/)
@@ -106,7 +103,6 @@
   // lastY = e.offsetY;
 ```
 
-
 ### 9. Dev Tools Domination
 [Dev Tools Domination](https://jjessicacho.github.io/javascript-30-days-challenge/dev-tools-domination/)
 
@@ -124,7 +120,6 @@ console
 - counting: count
 - timing (how long it takes): time, timeEnd, fetch
 
-
 ### 10. Hold Shift to Check Checkbox
 ![checkbox](https://user-images.githubusercontent.com/40417828/118047152-36410e00-b32f-11eb-9945-db2e6d641121.jpg)
 [Hold Shift to Check Checkbox](https://jjessicacho.github.io/javascript-30-days-challenge/checkbox/)
@@ -134,7 +129,6 @@ console
   - loop 
   - forEach
 - flag variable
-
 
 ### 11. Custom Video Player
 ![custom-video-player](https://user-images.githubusercontent.com/40417828/118204882-13d4f080-b414-11eb-946d-fa498c6a4245.jpg)
@@ -148,7 +142,6 @@ console
 - volume up and down
 - skip before (-10 seconds) and after (25 seconds) 
 
-
 ### 12. Key Sequence Detection (KONAMI CODE)
 ![key-sequence-detection](https://user-images.githubusercontent.com/40417828/118204884-15061d80-b414-11eb-8455-7fd750a500e7.jpg)
 [Key Sequence Detection](https://jjessicacho.github.io/javascript-30-days-challenge/key-sequence-detection/)
@@ -157,8 +150,6 @@ console
 - key sequencing detection
 - store them in an array
 - check every single time that they key up if it matches what you're looking for
-
-
 
 ### 13. Slide In on Scroll
 ![slide](https://user-images.githubusercontent.com/40417828/118336838-54da0d00-b4c7-11eb-9926-29e79cfd57d4.jpg)
@@ -170,17 +161,13 @@ console
   - window.scrollY
   - offsetTop
 
-
-
 ### 14. JavaScript References VS Copy
 [JavaScript References VS Copy](https://jjessicacho.github.io/javascript-30-days-challenge/js-references-vs-copying/)
 
 #### Things I learned:
 - array concat
 - object assign
-- JSON parse (not really recommended)
-
-
+- JSON parse (not recommend to use in this project though)
 
 ### 15. LocalStorage
 ![localStorage](https://user-images.githubusercontent.com/40417828/118418248-8f30df00-b66c-11eb-9b76-2c1b42505724.jpg)
@@ -189,6 +176,14 @@ console
 #### Things I learned:
 - preserve log
 - save items to local storage 
+
+### 16. Mouse Move Shadow 
+![mouse-move-shadow](https://user-images.githubusercontent.com/40417828/118886221-84b15800-b8ad-11eb-86f8-aef46bb91ed7.jpg)
+[Mouse Move Shadow](https://jjessicacho.github.io/javascript-30-days-challenge/mouse-move-shadow/)
+
+#### Things I learned:
+- Using offset to get the position where your cursor is 
+- If you have nested elements inside the if statement, you sometimes will need to do a little bit of math 
 
 
 

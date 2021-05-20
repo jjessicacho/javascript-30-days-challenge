@@ -185,6 +185,13 @@ console
 - Using offset to get the position where your cursor is 
 - If you have nested elements inside the if statement, you sometimes will need to do a little bit of math 
 
+### 17. Sort Without Articles 
+![sort-without-articles](https://user-images.githubusercontent.com/40417828/119030607-f85f6d80-b95e-11eb-84b3-4ac3d2ee4609.jpg)
+[Sort Without Articles](https://jjessicacho.github.io/javascript-30-days-challenge/sort-without-articles/)
+
+#### Things I learned:
+- Sort lists without articles using `strip`
+
 
 
 

@@ -192,14 +192,20 @@ console
 #### Things I learned:
 - Sort lists without articles using `strip`
 
-
 ### 18. Tally String Times with Reduce
 [Tally String Times with Reduce](https://jjessicacho.github.io/javascript-30-days-challenge/tally-string-times-with-reduce/)
 
 #### Things I learned:
 - By using Reduce, add the total number of minutes, seconds and hours that is the actual videos
 
+### 19. Webcam
+[Webcam](https://jjessicacho.github.io/javascript-30-days-challenge/webcam/)
 
+#### Things I learned:
+- server: `npm install`, `npm start` in cmd 
+- Live video
+- Screenshot
+- RGB 
 
 
 

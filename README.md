@@ -198,15 +198,6 @@ console
 #### Things I learned:
 - By using Reduce, add the total number of minutes, seconds and hours that is the actual videos
 
-### 19. Webcam
-[Webcam](https://jjessicacho.github.io/javascript-30-days-challenge/webcam/)
-
-#### Things I learned:
-- server: `npm install`, `npm start` in cmd 
-- Live video
-- Screenshot
-- RGB 
-
 
 
 

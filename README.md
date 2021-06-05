@@ -198,12 +198,18 @@ console
 #### Things I learned:
 - By using Reduce, add the total number of minutes, seconds and hours that is the actual videos
 
-### 19. Webcam
-- How to open this file:
-  - go to cmd
-  - go to the file location "webcam"
+---
+For the following challenges that include `package.json`:
+- How to open the file:
+  - go to `cmd`
+  - go to the file location 
   - `npm install`
   - `npm start`
+
+*jason file is required for a local host (aka secure origin)*
+
+---
+### 19. Webcam
 
 #### Things I learned:
 - live video from webcam 
@@ -216,6 +222,17 @@ console
 
 #### Things I learned:
 - speech recognition in the browser (without any libraries or external APIs)
+ 
+### 21. Geolocation
+- Required devices:
+  - Mac laptop or iOS Phone
+  - Xcode (aka simulator)
+  - Safari
+- Note: This challenge is not monitored because I do not own either Mac or iOS.
+#### Things I learned:
+- Simulate the Geolocation
+
+
  
 
 

@@ -231,9 +231,14 @@ For the following challenges that include `package.json`:
 - Note: This challenge is not monitored because I do not own either Mac or iOS.
 #### Things I learned:
 - Simulate the Geolocation
+  
+### 21. Follow Along Links
+![follow-along-link](https://user-images.githubusercontent.com/40417828/120876771-afff9c80-c567-11eb-972d-105dae4678fc.jpg)
+[Follow Along Links](https://jjessicacho.github.io/javascript-30-days-challenge/highlighter/)
 
-
- 
+#### Things I learned:
+- When hover over the nav, the highlight background follow links 
+- transition 
 
 
 

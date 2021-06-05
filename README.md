@@ -258,6 +258,22 @@ For the following challenges that include `package.json`:
 - Fix a nav when you scroll to it
 - Do not hard code the height because it is different by the screen size 
 
+### 24. Event Capture, Propagation, Bubbling and Once
+[Event Capture, Propagation, Bubbling and Once](https://jjessicacho.github.io/javascript-30-days-challenge/event-capture-propagation-bubbling-once/)
+
+#### Things I learned:
+- Event Capture
+  - `capture: false;` <- default
+- Propagation
+  - `e.stopPropagation`: stop bubbling
+- Bubbling
+  - bubble up: when you click on the element, it will trigger an event on the parent and that parent as well
+- Once
+  - `once: true;` 
+  - It will listen for a click once, then unbind itself so that there's no future clicks on it 
+  - usually use this for `button`
+
+
 
 
 

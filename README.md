@@ -198,8 +198,20 @@ console
 #### Things I learned:
 - By using Reduce, add the total number of minutes, seconds and hours that is the actual videos
 
+### 19. Webcam
+- How to open this file:
+  - go to cmd
+  - go to the file location "webcam"
+  - `npm install`
+  - `npm start`
 
-
+#### Things I learned:
+- live video from webcam 
+- canvas element
+- take photos 
+- download photos 
+- photo edit effects (rgbSplit)
+ 
 
 
 

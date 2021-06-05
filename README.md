@@ -250,6 +250,29 @@ For the following challenges that include `package.json`:
 - Rate (Fast/Slow)
 - Pitch (High/Low)
 
+### 23. Sticky Nav
+![sticky-nav](https://user-images.githubusercontent.com/40417828/120878135-54391180-c56f-11eb-97b7-3391e792193c.jpg)
+[Sticky Nav](https://jjessicacho.github.io/javascript-30-days-challenge/sticky-nav/)
+
+#### Things I learned:
+- Fix a nav when you scroll to it
+- Do not hard code the height because it is different by the screen size 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

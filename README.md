@@ -232,7 +232,7 @@ For the following challenges that include `package.json`:
 #### Things I learned:
 - Simulate the Geolocation
   
-### 21. Follow Along Links
+### 22. Follow Along Links
 ![follow-along-link](https://user-images.githubusercontent.com/40417828/120876771-afff9c80-c567-11eb-972d-105dae4678fc.jpg)
 [Follow Along Links](https://jjessicacho.github.io/javascript-30-days-challenge/highlighter/)
 
@@ -240,7 +240,7 @@ For the following challenges that include `package.json`:
 - When hover over the nav, the highlight background follow links 
 - transition 
 
-### 22. Speech Synthesis
+### 23. Speech Synthesis
 ![speech-synthesis](https://user-images.githubusercontent.com/40417828/120877062-45e7f700-c569-11eb-90d7-f1878a3cfb36.jpg)
 [Speech Synthesis](https://jjessicacho.github.io/javascript-30-days-challenge/speech-synthesis/)
 
@@ -250,7 +250,7 @@ For the following challenges that include `package.json`:
 - Rate (Fast/Slow)
 - Pitch (High/Low)
 
-### 23. Sticky Nav
+### 24. Sticky Nav
 ![sticky-nav](https://user-images.githubusercontent.com/40417828/120878135-54391180-c56f-11eb-97b7-3391e792193c.jpg)
 [Sticky Nav](https://jjessicacho.github.io/javascript-30-days-challenge/sticky-nav/)
 
@@ -258,7 +258,7 @@ For the following challenges that include `package.json`:
 - Fix a nav when you scroll to it
 - Do not hard code the height because it is different by the screen size 
 
-### 24. Event Capture, Propagation, Bubbling and Once
+### 25. Event Capture, Propagation, Bubbling and Once
 [Event Capture, Propagation, Bubbling and Once](https://jjessicacho.github.io/javascript-30-days-challenge/event-capture-propagation-bubbling-once/)
 
 #### Things I learned:

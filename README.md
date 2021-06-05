@@ -212,7 +212,11 @@ console
 - download photos 
 - photo edit effects (rgbSplit)
  
+### 20. Speech Detection
 
+#### Things I learned:
+- speech recognition in the browser (without any libraries or external APIs)
+ 
 
 
 

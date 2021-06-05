@@ -219,9 +219,9 @@ For the following challenges that include `package.json`:
 - photo edit effects (rgbSplit)
  
 ### 20. Speech Detection
-
 #### Things I learned:
 - speech recognition in the browser (without any libraries or external APIs)
+- Voice to Text
  
 ### 21. Geolocation
 - Required devices:
@@ -240,6 +240,15 @@ For the following challenges that include `package.json`:
 - When hover over the nav, the highlight background follow links 
 - transition 
 
+### 22. Speech Synthesis
+![speech-synthesis](https://user-images.githubusercontent.com/40417828/120877062-45e7f700-c569-11eb-90d7-f1878a3cfb36.jpg)
+[Speech Synthesis](https://jjessicacho.github.io/javascript-30-days-challenge/speech-synthesis/)
+
+#### Things I learned:
+- Speech Synthesis API
+- Text to Voice
+- Rate (Fast/Slow)
+- Pitch (High/Low)
 
 
 

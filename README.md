@@ -273,8 +273,12 @@ For the following challenges that include `package.json`:
   - It will listen for a click once, then unbind itself so that there's no future clicks on it 
   - usually use this for `button`
 
+### 26. Stripe Follow Along Dropdown
+![dropdown](https://user-images.githubusercontent.com/40417828/120908888-f4e90900-c623-11eb-8e43-7f2385ace1b4.jpg)
+[Stripe Follow Along Dropdown](https://jjessicacho.github.io/javascript-30-days-challenge/dropdown/)
 
-
+#### Things I learned:
+- the background of the dropdown transform itself from the width and the height as well as wherever it is on the page (x & y)
 
 
 

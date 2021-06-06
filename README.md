@@ -287,6 +287,14 @@ For the following challenges that include `package.json`:
 #### Things I learned:
 - click and drag elements horizontally
 
+### 28. Video Speed Controller UI
+![video-speed-controller-ui](https://user-images.githubusercontent.com/40417828/120909745-0be02900-c62d-11eb-91db-d36cab2e996b.jpg)
+[Video Speed Controller UI](https://jjessicacho.github.io/javascript-30-days-challenge/video-speed-controller-ui/)
+
+#### Things I learned:
+- Create a bar that controls the speed of the video 
+- playback rate when min is not 0 nor max is 100
+- 2 decimal places: toFixed(2)
 
 
 

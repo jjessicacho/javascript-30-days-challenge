@@ -280,6 +280,16 @@ For the following challenges that include `package.json`:
 #### Things I learned:
 - the background of the dropdown transform itself from the width and the height as well as wherever it is on the page (x & y)
 
+### 27. Click and Drag
+![click-drag](https://user-images.githubusercontent.com/40417828/120909354-15679200-c629-11eb-9f58-70bf74619a3c.jpg)
+[Click and Drag](https://jjessicacho.github.io/javascript-30-days-challenge/click-drag/)
+
+#### Things I learned:
+- click and drag elements horizontally
+
+
+
+
 
 
 

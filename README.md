@@ -297,6 +297,21 @@ For the following challenges that include `package.json`:
 - 2 decimal places: toFixed(2)
 
 
+### 29. Countdown Clock
+![countdown](https://user-images.githubusercontent.com/40417828/120945024-4bba1580-c6ec-11eb-944f-e94f6c93a60e.jpg)
+[Countdown Clock](https://jjessicacho.github.io/javascript-30-days-challenge/countdown-clock/)
+
+#### Things I learned:
+- countdown timer (minutes: seconds)
+- what time to be back
+- `Date.now()` - current time in milliseconds 
+- `setInterval`
+- `Math.floor()` - to round up 
+- ternary operator: `minutes < 10 ? '0' : ''` - if the minutes are less than 10, return a 0, otherwise return nothing
+-  `e.preventDefault();` - to stop reloading the page and send the data over a get
+- timestamp
+
+
 
 
 

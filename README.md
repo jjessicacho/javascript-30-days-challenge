@@ -296,7 +296,6 @@ For the following challenges that include `package.json`:
 - playback rate when min is not 0 nor max is 100
 - 2 decimal places: toFixed(2)
 
-
 ### 29. Countdown Clock
 ![countdown](https://user-images.githubusercontent.com/40417828/120945024-4bba1580-c6ec-11eb-944f-e94f6c93a60e.jpg)
 [Countdown Clock](https://jjessicacho.github.io/javascript-30-days-challenge/countdown-clock/)
@@ -310,10 +309,19 @@ For the following challenges that include `package.json`:
 - ternary operator: `minutes < 10 ? '0' : ''` - if the minutes are less than 10, return a 0, otherwise return nothing
 -  `e.preventDefault();` - to stop reloading the page and send the data over a get
 - timestamp
+- `clearInterval`
 
+### 30. Whack A Mole!
+![whack-a-mole-game](https://user-images.githubusercontent.com/40417828/120948702-ad33b180-c6f7-11eb-8850-bbf60d305154.jpg)
+[Whack A Mole](https://jjessicacho.github.io/javascript-30-days-challenge/whack-a-mole/)
 
-
-
+#### Things I learned:
+- When you run the game, you are going to get critters popping up in random holes for random amounts of time. When you click them, you get a point.
+- offset x and y
+- `Math.random`
+- `holes.length` - to find out how many holes I have 
+- `let` reference 
+- recursion
 
 
 
